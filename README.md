@@ -21,7 +21,6 @@ This project is a RESTful API built with Laravel for managing blog posts and com
 1. Clone the Repository
 
     ```bash
-    Copy code
     git clone https://github.com/yourusername/laravel-blog-api.git
     cd laravel-blog-api
     ```
